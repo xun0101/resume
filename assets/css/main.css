@@ -2908,3 +2908,8 @@ body.is-touch .poptrox-popup .closer {
     padding-left: 0;
   }
 }
+
+.title {
+  border-left: 10px solid #198754;
+  padding-left: 10px;
+}
